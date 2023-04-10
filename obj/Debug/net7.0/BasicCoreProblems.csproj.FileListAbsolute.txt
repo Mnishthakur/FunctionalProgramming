@@ -1,0 +1,15 @@
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/BasicCoreProblems.csproj.AssemblyReference.cache
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/BasicCoreProblems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/BasicCoreProblems.AssemblyInfoInputs.cache
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/BasicCoreProblems.AssemblyInfo.cs
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/BasicCoreProblems.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/bin/Debug/net7.0/BasicCoreProblems
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/bin/Debug/net7.0/BasicCoreProblems.deps.json
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/bin/Debug/net7.0/BasicCoreProblems.runtimeconfig.json
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/bin/Debug/net7.0/BasicCoreProblems.dll
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/bin/Debug/net7.0/BasicCoreProblems.pdb
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/BasicCoreProblems.dll
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/refint/BasicCoreProblems.dll
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/BasicCoreProblems.pdb
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/BasicCoreProblems.genruntimeconfig.cache
+/Users/apple/Projects/BasicCoreProblems/BasicCoreProblems/obj/Debug/net7.0/ref/BasicCoreProblems.dll
